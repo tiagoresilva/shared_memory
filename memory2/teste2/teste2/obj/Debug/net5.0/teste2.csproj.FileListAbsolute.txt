@@ -1,0 +1,11 @@
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\bin\Debug\net5.0\teste2.deps.json
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\bin\Debug\net5.0\teste2.dll
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\bin\Debug\net5.0\ref\teste2.dll
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\bin\Debug\net5.0\teste2.pdb
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\obj\Debug\net5.0\teste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\obj\Debug\net5.0\teste2.AssemblyInfoInputs.cache
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\obj\Debug\net5.0\teste2.AssemblyInfo.cs
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\obj\Debug\net5.0\teste2.csproj.CoreCompileInputs.cache
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\obj\Debug\net5.0\teste2.dll
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\obj\Debug\net5.0\ref\teste2.dll
+C:\Users\arware\Desktop\testememory\memory2\teste2\teste2\obj\Debug\net5.0\teste2.pdb

@@ -1,0 +1,16 @@
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.csproj.AssemblyReference.cache
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.AssemblyInfoInputs.cache
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.AssemblyInfo.cs
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.csproj.CoreCompileInputs.cache
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\bin\Debug\net5.0\teste memory.exe
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\bin\Debug\net5.0\teste memory.deps.json
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\bin\Debug\net5.0\teste memory.runtimeconfig.json
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\bin\Debug\net5.0\teste memory.runtimeconfig.dev.json
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\bin\Debug\net5.0\teste memory.dll
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\bin\Debug\net5.0\ref\teste memory.dll
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\bin\Debug\net5.0\teste memory.pdb
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.dll
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\ref\teste memory.dll
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.pdb
+C:\Users\arware\Desktop\testememory\teste de memoria2\teste memory\teste memory\obj\Debug\net5.0\teste memory.genruntimeconfig.cache

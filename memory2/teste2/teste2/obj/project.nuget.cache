@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWnUoSBTnbgCbGBhQuv3Jw3UBXnNtSH4YfV+aSMBPs/CVbl8342O5GdJpQTzmqrk0oNBZJ/rHgbT67ARA7hpOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arware\\Desktop\\testememory\\memory2\\teste2\\teste2\\teste2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arware\\.nuget\\packages\\unmanagedexports\\1.2.7\\unmanagedexports.1.2.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'UnmanagedExports 1.2.7' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "UnmanagedExports",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\bin\Debug\net5.0\ReadAndWriteMemory.deps.json
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\bin\Debug\net5.0\ReadAndWriteMemory.dll
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\bin\Debug\net5.0\ref\ReadAndWriteMemory.dll
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\bin\Debug\net5.0\ReadAndWriteMemory.pdb
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ReadAndWriteMemory.csproj.AssemblyReference.cache
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ReadAndWriteMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ReadAndWriteMemory.AssemblyInfoInputs.cache
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ReadAndWriteMemory.AssemblyInfo.cs
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ReadAndWriteMemory.csproj.CoreCompileInputs.cache
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ReadAndWriteMemory.dll
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ref\ReadAndWriteMemory.dll
+C:\Users\arware\Desktop\testememory\ReadAndWriteMemory\ReadAndWriteMemory\obj\Debug\net5.0\ReadAndWriteMemory.pdb

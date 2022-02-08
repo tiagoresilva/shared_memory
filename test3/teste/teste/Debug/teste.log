@@ -1,0 +1,4 @@
+﻿  teste.cpp
+     Criando biblioteca C:\Users\arware\Desktop\testememory\test3\teste\Debug\teste.lib e objeto C:\Users\arware\Desktop\testememory\test3\teste\Debug\teste.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo não resolvido, _main, referenciado na função "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\arware\Desktop\testememory\test3\teste\Debug\teste.exe : fatal error LNK1120: 1 externo não resolvidos
